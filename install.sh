@@ -33,6 +33,8 @@ $HOME/.composer/vendor/bin/valet install
 # Install global NPM packages
 npm install --global yarn
 
+# Create a Projects directory
+mkdir $HOME/Projects
 
 # Removes .zshrc from $HOME (if it exists) and symlinks the .zshrc file from the .dotfiles
 rm -rf $HOME/.zshrc
