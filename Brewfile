@@ -26,7 +26,7 @@ brew 'zsh-completions'
 
 # Development
 brew 'php'
-#brew 'mysql'
+brew 'mariadb'
 #brew 'nginx'
 brew 'node'
 brew 'redis'
