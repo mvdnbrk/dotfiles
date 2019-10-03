@@ -9,7 +9,7 @@ tap 'homebrew/bundle'
 #brew 'awscli'
 #brew 'bash' # Latest Bash version
 #brew 'bat' # "cat" on steroids
-#brew 'coreutils' # Those that come with macOS are outdated
+brew 'coreutils' # Those that come with macOS are outdated
 brew 'git'
 #brew 'gnupg2'
 #brew 'grep'
@@ -22,7 +22,7 @@ brew 'mas' # Mac App Store manager
 #brew 'tree' # List directories in a tree structure
 #brew 'zlib' # Needed for Memcached
 brew 'zsh'
-#brew 'zsh-completions'
+brew 'zsh-completions'
 
 # Development
 brew 'php'
