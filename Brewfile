@@ -57,9 +57,6 @@ cask 'sublime-text'
 #cask 'there'
 #cask 'tor-browser'
 cask 'transmit'
-#cask 'vagrant'
-#cask 'virtualbox'
-#cask 'virtualbox-extension-pack'
 
 # Quicklook
 cask 'qlcolorcode'
