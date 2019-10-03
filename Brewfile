@@ -26,7 +26,6 @@ brew 'zsh-completions'
 
 # Development
 brew 'php'
-#brew 'imagick'
 #brew 'mysql'
 #brew 'nginx'
 brew 'node'
