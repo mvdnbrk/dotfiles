@@ -66,6 +66,7 @@ cask 'quicklook-csv'
 cask 'qlstephen'
 
 # Fonts
+cask 'font-fira-code'
 cask 'font-lato'
 cask 'font-open-sans'
 cask 'font-roboto'
