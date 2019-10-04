@@ -22,7 +22,9 @@ alias cfresh="rm -rf vendor/ composer.lock && composer i"
 
 # JS
 alias nfresh="rm -rf node_modules/ package-lock.json && npm install"
-alias watch="npm run watch"
+alias yrd="yarn run development"
+alias yrp="yarn run production"
+alias yrw="yarn run watch"
 
 # Git
 alias commit="git add . && git commit -m"
