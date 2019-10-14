@@ -6,6 +6,12 @@ alias ll="/usr/local/opt/coreutils/libexec/gnubin/ls -ahlF --color --group-direc
 alias c="clear"
 alias zbundle="antibody bundle < $DOTFILES/zsh_plugins.txt > $DOTFILES/zsh_plugins.sh"
 
+# PHPunit
+alias pu="vendor/bin/phpunit"
+
+# Composer
+alias cu="composer update"
+
 # Directories
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
