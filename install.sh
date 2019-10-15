@@ -32,6 +32,7 @@ $HOME/.composer/vendor/bin/valet install
 
 # Install global NPM packages
 npm install --global yarn
+npm install --global alfred-packagist
 
 # Create a Projects directory
 mkdir $HOME/Projects
