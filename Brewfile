@@ -21,8 +21,6 @@ brew 'mas' # Mac App Store manager
 #brew 'trash' # Manage the Trash bin
 #brew 'tree' # List directories in a tree structure
 #brew 'zlib' # Needed for Memcached
-brew 'zsh'
-brew 'zsh-completions'
 
 # Development
 brew 'php'
@@ -56,6 +54,7 @@ cask 'font-fira-code'
 cask 'font-lato'
 cask 'font-open-sans'
 cask 'font-roboto'
+cask 'font-roboto-condensed'
 cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
