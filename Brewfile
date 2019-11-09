@@ -29,6 +29,7 @@ brew 'mariadb'
 brew 'nginx'
 brew 'node'
 brew 'redis'
+brew 'yarn'
 
 # Apps
 cask 'alfred'

@@ -20,8 +20,8 @@ brew bundle
 # Install Laravel Valet
 $HOME/.composer/vendor/bin/valet install
 
-# Install global NPM packages
-npm install --global yarn alfred-packagist
+# Install global NPM packages with yarn
+yarn global add alfred-packagist
 
 # Create a Projects directory
 mkdir $HOME/Projects
