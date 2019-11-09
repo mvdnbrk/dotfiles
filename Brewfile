@@ -24,6 +24,7 @@ brew 'mas' # Mac App Store manager
 
 # Development
 brew 'php'
+brew 'composer'
 brew 'mariadb'
 brew 'nginx'
 brew 'node'
