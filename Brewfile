@@ -32,6 +32,7 @@ brew 'redis'
 brew 'yarn'
 
 # Apps
+cask '1password'
 cask 'alfred'
 cask 'dropbox'
 cask 'github'
@@ -61,6 +62,3 @@ cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
-
-# Mac App Store
-mas '1Password', id: 1333542190
