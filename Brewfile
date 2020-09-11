@@ -25,10 +25,10 @@ brew 'mackup'
 # Development
 brew 'php'
 brew 'composer'
-brew 'mariadb'
+#brew 'mariadb'
 brew 'nginx'
 brew 'node'
-brew 'redis'
+#brew 'redis'
 brew 'yarn'
 
 # Apps
@@ -39,11 +39,12 @@ cask 'github'
 cask 'google-chrome'
 cask 'gpg-suite'
 cask 'insomnia'
-cask 'sequel-pro'
+#cask 'sequel-pro'
 cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
 cask 'transmit'
+cask 'visual-studio-code'
 
 # Quicklook
 cask 'qlcolorcode'
