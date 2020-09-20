@@ -15,7 +15,7 @@ brew tap homebrew/bundle
 brew bundle
 
 # Install global Composer packages
-/usr/local/bin/composer global require laravel/installer laravel/valet hirak/prestissimo
+/usr/local/bin/composer global require laravel/installer laravel/valet hirak/prestissimo tightenco/takeout
 
 # Install Laravel Valet
 $HOME/.composer/vendor/bin/valet install
