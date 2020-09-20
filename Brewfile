@@ -7,7 +7,7 @@ tap 'homebrew/bundle'
 
 # Binaries
 #brew 'awscli'
-#brew 'bash' # Latest Bash version
+brew 'bash' # Latest Bash version
 #brew 'bat' # "cat" on steroids
 brew 'coreutils' # Those that come with macOS are outdated
 brew 'git'
@@ -34,6 +34,8 @@ brew 'yarn'
 # Apps
 cask '1password'
 cask 'alfred'
+cask 'discord'
+cask 'docker'
 cask 'dropbox'
 cask 'github'
 cask 'google-chrome'
@@ -43,6 +45,7 @@ cask 'insomnia'
 cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
+cask 'tinkerwell'
 cask 'transmit'
 cask 'visual-studio-code'
 
