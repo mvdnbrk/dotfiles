@@ -9,6 +9,7 @@ tap 'homebrew/bundle'
 brew 'bash' # Latest Bash version
 #brew 'bat' # "cat" on steroids
 brew 'coreutils' # Those that come with macOS are outdated
+brew 'gh'
 brew 'git'
 brew 'gnupg2'
 brew 'grep'
