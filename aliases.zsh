@@ -10,14 +10,14 @@ alias zbundle="antibody bundle < $DOTFILES/zsh_plugins.txt > $DOTFILES/zsh_plugi
 alias pu="vendor/bin/phpunit"
 
 # Composer
+alias co="composer outdated -D"
 alias cu="composer update"
 
 # Directories
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
 alias sites="cd $HOME/Sites"
-alias projects="cd $HOME/Projects"
-alias lara="sites && cd laravel/"
+alias packages="cd $HOME/Packages"
 
 # Laravel
 alias art="php artisan"
